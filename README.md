@@ -1,6 +1,6 @@
 # gulp-getting-started
 
-# 🚀 A Node.js webapp to scrape the stars of specified GitHub users 🚀
+# 🚀 Getting Started tutorial for Gulp 🚀
 
 https://github.com/coding-to-music/gulp-getting-started
 
