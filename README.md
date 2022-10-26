@@ -8,6 +8,8 @@ From / By https://gulpjs.com/docs/en/getting-started/quick-start
 
 https://github.com/gulpjs/gulp/tree/master/docs/getting-started
 
+https://dev.to/christiankastner/using-gulp-to-optimize-your-site-speed-and-improve-seo-276d
+
 ## Environment variables:
 
 ```java
